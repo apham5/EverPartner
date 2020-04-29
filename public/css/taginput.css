@@ -1,0 +1,12 @@
+
+  .input-tags {
+    width: 100%;
+    padding: 15px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .label-info {
+    background-color: #5bc0de;
+    padding: 3px;
+  }
